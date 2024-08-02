@@ -26,7 +26,7 @@ The Olist dataset, sourced from Kaggle, contains comprehensive data on sales tra
   - Order fulfillment performance
 
 ## Visualization
-Link to interactive ![Dashboard]([http://bobcat-aware-panther.ngrok-free.app](https://f1f1-113-173-157-136.ngrok-free.app/superset/dashboard/15f31c5d-b975-4da6-99e8-f1d9e0abdbaf/?native_filters_key=GKu3c0AztulUlLm2cuTatRa2JD32eCZZsPr77gSt9v-n9DjnwIqFf6nr1rhkIRFc))
+Link to interactive [Dashboard](https://f1f1-113-173-157-136.ngrok-free.app/superset/dashboard/15f31c5d-b975-4da6-99e8-f1d9e0abdbaf/?native_filters_key=GKu3c0AztulUlLm2cuTatRa2JD32eCZZsPr77gSt9v-n9DjnwIqFf6nr1rhkIRFc)
 
 ## Key Insights 
 - ‌Olist E-commerce Store generated a total sales of 16 million Brazilian real(R$16,008,872) ≈ 2,873,711 USD within the 3-year period in review. During this, I found that in November 2017 had the highest sales, especially in 24th November 2017 and surprisingly this was on **Black Friday** which was a very common reason why sales grow.
